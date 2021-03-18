@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.grid-container {
+display: grid;
+grid-template-columns: auto auto auto;
+}
+.zone-green {
+background-color: #7eca9c;
+padding: 20px;
+font-size: 30px;
+text-align: center;
+}
+.zone-blue {
+background-color: #5d50c6;
+padding: 20px;
+font-size: 30px;
+text-align: center;
+}
+.zone-brown {
+background-color: #b3533d;
+padding: 20px;
+font-size: 30px;
+text-align: center;
+}
+.zone-yellow {
+background-color: #facd49;
+padding: 20px;
+font-size: 30px;
+text-align: center;
+}
+.zone-red {
+background-color: #de3c3c;
+padding: 20px;
+font-size: 30px;
+text-align: center;
+}
+.zone-orchid {
+background-color: #f7b32d;
+padding: 20px;
+font-size: 30px;
+text-align: center;
+}
+.zone-ash {
+background-color: #818d97;
+padding: 20px;
+font-size: 30px;
+text-align: center;
+}
+.zone-navyblue {
+background-color: #005e7c;
+padding: 20px;
+font-size: 30px;
+text-align: center;
+}
+.zone-skyblue {
+background-color: #5ff4ee;
+padding: 20px;
+font-size: 30px;
+text-align: center;
+}
+</style>
+</head>
+<div class= "grid-container">
+<div class="zone-green">🦊</div>
+<div class="zone-blue" >🐰</div>
+<div class="zone-brown">🐘</div>
+<div class="zone-yellow">🐎</div>
+<div class="zone-red">🐶</div>
+<div class="zone-orchid ">🦁</div>
+<div class="zone-ash">🐯 </div>
+<div class="zone-navyblue">🐘</div>
+<div class="zone-skyblue">🐺</div>
+
+</div>
+</body>
+</html>
